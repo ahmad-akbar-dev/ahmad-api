@@ -1,5 +1,5 @@
 type: object
-title: Scalars
+title: Vectors
 properties:
   stringProperty:
     description: Property name's description (type is string)
